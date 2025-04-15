@@ -1,0 +1,8 @@
+Software development Kits can be made available in the Virtual Machines that can be
+implemented as Platform as a Service.
+Installation of Netbeans, Eclipse, Visual Studio and DBMS can be done in the
+appropriate Virtual.
+
+
+Applications created and deployed in the virtual machines can be accessed by outside
+world. This can be implemented as Software as Service
